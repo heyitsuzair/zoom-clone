@@ -29,7 +29,7 @@ const VideoPlayer = () => {
   const classes = useStyles();
 
   return (
-    <Grid container className={classes.gridContainer}>
+    <Grid container className={classes.gridContainer} textAlign="center">
       {stream && (
         <Paper className={classes.paper}>
           <Grid item xs={12} md={6}>

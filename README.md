@@ -1,1 +1,1 @@
-This project is under development by Muhammad Uzair Using React and WebRTC. Made With ❤️ By Uzair
+This project is developed by Muhammad Uzair Using React and WebRTC. Live at https://zoom-clone-webrtc.herokuapp.com Made With ❤️ By Uzair

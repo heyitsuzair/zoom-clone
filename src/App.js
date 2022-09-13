@@ -14,7 +14,6 @@ function App() {
       flexDirection: "row",
       justifyContent: "center",
       alignItems: "center",
-      width: "600px",
       border: "2px solid black",
     },
     image: {
